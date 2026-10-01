@@ -1,5 +1,8 @@
 The project titled "Modular Cargo Loading Optimization Software" is 4-person team project that was part of UC Riverside's Mechanical Engineering Capstone project for HexHomes.
 
+### What it is
+Modular Cargo Loading Optimization Software (MCLOS) is a python-based software to address several challenges that HexHomes, the sponsor of this project, has faced. HexHomes has faced a logistic issue that lacks standardized, repeatable, and efficient use of space for loading prefabricated panels onto standard flatbed trailers. MCLOS generates an optimized three-dimensional panel arrangement for 1 to 6 modular pods within a trailer's constraints while enforcing geometric fit, collision avoidance, and structural stress constraints. The software features an interactive web interface using Plotly to 3D render a visual model along with a spreadsheet containing panel by panel stress analysis.
+
 ## My Contributions (Jerry045)
 As a member of the four-person development team, I contributed to the optimization logic, trailer constraints, panel arrangement, testing, and application interface throughout the development of MCLOS both in Alpha and Beta Versions.
 
